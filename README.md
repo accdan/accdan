@@ -1,12 +1,12 @@
-# Hi there 👋, I'm [Nama Kamu]
+# Hi there 👋, I'm Dan
 
-> A simple coder who loves building things 🛠️
+> Loves to Build and Learn 🛠️
 
 ### 🌐 About Me
-- 📍 Based in [Kota Kamu], Indonesia
-- 💼 Currently learning / working as [Job Title / Student]
-- 🤖 Passionate about [Contoh: Web Development, AI, Open Source]
-- 📫 How to reach me: [email@example.com] | [LinkedIn](https://linkedin.com/in/yourprofile) *(opsional)*
+- 📍 Based in Gresik, Indonesia
+- 💼 Currently learning At Institute Technology Adhi Tama Surabaya
+- 🤖 Passionate about Games, Web Developing, and AI building
+- 📫 How to reach me: accdanuputra@gmail.com 
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
