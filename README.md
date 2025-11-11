@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=USERNAMEMU&show_icons=true&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=accdan&show_icons=true&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEMU&layout=compact&theme=radical&hide_border=true)
 
 ### ✨ Fun Fact
