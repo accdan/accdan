@@ -22,6 +22,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=accdan&show_icons=true&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=accdan&layout=compact&theme=radical&hide_border=true)
 
-### ✨ Fun Fact
-I believe in writing clean code and learning one step at a time.  
-_“Talk is cheap. Show me the code.” — Linus Torvalds_
+### ✨ Fun Fact 
+_“Sumpah,do something cok.” — Gwe_
