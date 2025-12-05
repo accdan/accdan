@@ -50,7 +50,7 @@ I'm a passionate developer and student at **Institute Technology Adhi Tama Surab
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=accdan&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/accdan)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=accdan&theme=radical&hide_border=true)](https://github.com/accdan)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=accdan&theme=radical&hide_border=true)](https://github.com/accdan)
 
 </div>
 
