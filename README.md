@@ -49,9 +49,7 @@ I'm a passionate developer and student at **Institute Technology Adhi Tama Surab
 ![Profile Views](https://komarev.com/ghpvc/?username=accdan&color=blueviolet&style=for-the-badge)
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faccdan&style=for-the-badge&logo=github)
 ![Followers](https://img.shields.io/github/followers/accdan?style=for-the-badge&logo=github&label=Followers)
-![Profile Views](https://komarev.com/ghpvc/?username=accdan&color=blueviolet&style=for-the-badge)
-[![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faccdan&style=for-the-badge&logo=github)](https://github.com/accdan?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/accdan?style=for-the-badge&logo=github&label=Followers)](https://github.com/accdan?tab=followers)
+
 
 
 </div>
