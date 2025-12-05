@@ -45,30 +45,30 @@ I'm a passionate developer and student at **Institute Technology Adhi Tama Surab
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=accdan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=accdan&theme=radical&hide_border=true)
-
-</div>
-
-### 💻 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=accdan&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=repo1,repo2)
-
-</div>
 
 ### 📈 Contribution Activity
 
-<div align="center">
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=accdan&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/accdan)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=accdan&theme=redical&hide_border=true&custom_title=Contribution%20Graph)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=accdan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=accdan&theme=radical&hide_border=true)](https://github.com/accdan)
 
 </div>
+
+### 💻 Coding Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=accdan&color=blueviolet&style=for-the-badge)
+
+[![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faccdan&style=for-the-badge&logo=github)](https://github.com/accdan?tab=repositories)
+
+[![Followers](https://img.shields.io/github/followers/accdan?style=for-the-badge&logo=github&label=Followers)](https://github.com/accdan?tab=followers)
+
+</div>
+
+---
+
+> 💡 **Tip:** As you add more code to your public repositories, additional stats like language breakdown will automatically appear!
 
 ---
 
