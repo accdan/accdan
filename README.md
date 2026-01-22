@@ -62,9 +62,6 @@ I'm a passionate developer and student at **Institute Technology Adhi Tama Surab
 </div>
 
 ---
-
-> 💡 **Tip:** As you add more code to your public repositories, additional stats like language breakdown will automatically appear!
-
 ---
 
 ## 🎯 Current Focus
